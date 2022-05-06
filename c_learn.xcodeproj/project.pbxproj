@@ -12,6 +12,26 @@
 		E1F440062808082C00246029 /* T6.c in Sources */ = {isa = PBXBuildFile; fileRef = E1F440052808082C00246029 /* T6.c */; };
 		E1F4400A2808203300246029 /* T7.c in Sources */ = {isa = PBXBuildFile; fileRef = E1F440092808203300246029 /* T7.c */; };
 		E1F4400C28082CA600246029 /* T8.c in Sources */ = {isa = PBXBuildFile; fileRef = E1F4400B28082CA600246029 /* T8.c */; };
+		E1F4400E2808412900246029 /* T9.c in Sources */ = {isa = PBXBuildFile; fileRef = E1F4400D2808412900246029 /* T9.c */; };
+		E1F440112809482600246029 /* T10.c in Sources */ = {isa = PBXBuildFile; fileRef = E1F440102809482600246029 /* T10.c */; };
+		E1F440132809508600246029 /* T11.c in Sources */ = {isa = PBXBuildFile; fileRef = E1F440122809508600246029 /* T11.c */; };
+		E1F44015280D055C00246029 /* T12.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F44014280D055C00246029 /* T12.cpp */; };
+		E1F44018280D4B9600246029 /* Student.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F44016280D4B9600246029 /* Student.cpp */; };
+		E1F4401A280D4ED400246029 /* T13.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F44019280D4ED400246029 /* T13.cpp */; };
+		E1F4401C280E84CB00246029 /* T14.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4401B280E84CB00246029 /* T14.cpp */; };
+		E1F4401E280E88F800246029 /* T15.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4401D280E88F800246029 /* T15.cpp */; };
+		E1F44020280E99ED00246029 /* T16.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4401F280E99ED00246029 /* T16.cpp */; };
+		E1F44026280FD6AE00246029 /* T17Student.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F44024280FD6AE00246029 /* T17Student.cpp */; };
+		E1F44028280FD8FB00246029 /* T17.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F44027280FD8FB00246029 /* T17.cpp */; };
+		E1F4402A28124B2700246029 /* T18.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4402928124B2700246029 /* T18.cpp */; };
+		E1F4402C28124F9F00246029 /* T19.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4402B28124F9F00246029 /* T19.cpp */; };
+		E1F4402F28124FE800246029 /* T19Class.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4402D28124FE800246029 /* T19Class.cpp */; };
+		E1F4403128127DE000246029 /* T20.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4403028127DE000246029 /* T20.cpp */; };
+		E1F4403428127DEE00246029 /* T20Class.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4403228127DEE00246029 /* T20Class.cpp */; };
+		E1F44037281285BA00246029 /* T21Class.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F44035281285BA00246029 /* T21Class.cpp */; };
+		E1F4403A28128B5300246029 /* T22.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4403828128B5300246029 /* T22.cpp */; };
+		E1F4403C2812A55300246029 /* T23.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4403B2812A55300246029 /* T23.cpp */; };
+		E1F4403E2812A9B000246029 /* T24.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4403D2812A9B000246029 /* T24.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +53,32 @@
 		E1F440052808082C00246029 /* T6.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = T6.c; sourceTree = "<group>"; };
 		E1F440092808203300246029 /* T7.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = T7.c; sourceTree = "<group>"; };
 		E1F4400B28082CA600246029 /* T8.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = T8.c; sourceTree = "<group>"; };
+		E1F4400D2808412900246029 /* T9.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = T9.c; sourceTree = "<group>"; };
+		E1F440102809482600246029 /* T10.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = T10.c; sourceTree = "<group>"; };
+		E1F440122809508600246029 /* T11.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = T11.c; sourceTree = "<group>"; };
+		E1F44014280D055C00246029 /* T12.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T12.cpp; sourceTree = "<group>"; };
+		E1F44016280D4B9600246029 /* Student.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Student.cpp; sourceTree = "<group>"; };
+		E1F44017280D4B9600246029 /* Student.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Student.hpp; sourceTree = "<group>"; };
+		E1F44019280D4ED400246029 /* T13.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T13.cpp; sourceTree = "<group>"; };
+		E1F4401B280E84CB00246029 /* T14.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T14.cpp; sourceTree = "<group>"; };
+		E1F4401D280E88F800246029 /* T15.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T15.cpp; sourceTree = "<group>"; };
+		E1F4401F280E99ED00246029 /* T16.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T16.cpp; sourceTree = "<group>"; };
+		E1F44024280FD6AE00246029 /* T17Student.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T17Student.cpp; sourceTree = "<group>"; };
+		E1F44025280FD6AE00246029 /* T17Student.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = T17Student.hpp; sourceTree = "<group>"; };
+		E1F44027280FD8FB00246029 /* T17.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T17.cpp; sourceTree = "<group>"; };
+		E1F4402928124B2700246029 /* T18.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T18.cpp; sourceTree = "<group>"; };
+		E1F4402B28124F9F00246029 /* T19.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T19.cpp; sourceTree = "<group>"; };
+		E1F4402D28124FE800246029 /* T19Class.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T19Class.cpp; sourceTree = "<group>"; };
+		E1F4402E28124FE800246029 /* T19Class.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = T19Class.hpp; sourceTree = "<group>"; };
+		E1F4403028127DE000246029 /* T20.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T20.cpp; sourceTree = "<group>"; };
+		E1F4403228127DEE00246029 /* T20Class.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T20Class.cpp; sourceTree = "<group>"; };
+		E1F4403328127DEE00246029 /* T20Class.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = T20Class.hpp; sourceTree = "<group>"; };
+		E1F44035281285BA00246029 /* T21Class.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T21Class.cpp; sourceTree = "<group>"; };
+		E1F44036281285BA00246029 /* T21Class.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = T21Class.hpp; sourceTree = "<group>"; };
+		E1F4403828128B5300246029 /* T22.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T22.cpp; sourceTree = "<group>"; };
+		E1F4403928128B5300246029 /* T22.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = T22.hpp; sourceTree = "<group>"; };
+		E1F4403B2812A55300246029 /* T23.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T23.cpp; sourceTree = "<group>"; };
+		E1F4403D2812A9B000246029 /* T24.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T24.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +116,32 @@
 				E1F440052808082C00246029 /* T6.c */,
 				E1F440092808203300246029 /* T7.c */,
 				E1F4400B28082CA600246029 /* T8.c */,
+				E1F4400D2808412900246029 /* T9.c */,
+				E1F440102809482600246029 /* T10.c */,
+				E1F440122809508600246029 /* T11.c */,
+				E1F44014280D055C00246029 /* T12.cpp */,
+				E1F44016280D4B9600246029 /* Student.cpp */,
+				E1F44017280D4B9600246029 /* Student.hpp */,
+				E1F44019280D4ED400246029 /* T13.cpp */,
+				E1F4401B280E84CB00246029 /* T14.cpp */,
+				E1F4401D280E88F800246029 /* T15.cpp */,
+				E1F4401F280E99ED00246029 /* T16.cpp */,
+				E1F44024280FD6AE00246029 /* T17Student.cpp */,
+				E1F44025280FD6AE00246029 /* T17Student.hpp */,
+				E1F44027280FD8FB00246029 /* T17.cpp */,
+				E1F4402928124B2700246029 /* T18.cpp */,
+				E1F4402B28124F9F00246029 /* T19.cpp */,
+				E1F4402D28124FE800246029 /* T19Class.cpp */,
+				E1F4402E28124FE800246029 /* T19Class.hpp */,
+				E1F4403028127DE000246029 /* T20.cpp */,
+				E1F4403228127DEE00246029 /* T20Class.cpp */,
+				E1F4403328127DEE00246029 /* T20Class.hpp */,
+				E1F44035281285BA00246029 /* T21Class.cpp */,
+				E1F44036281285BA00246029 /* T21Class.hpp */,
+				E1F4403828128B5300246029 /* T22.cpp */,
+				E1F4403928128B5300246029 /* T22.hpp */,
+				E1F4403B2812A55300246029 /* T23.cpp */,
+				E1F4403D2812A9B000246029 /* T24.cpp */,
 			);
 			path = c_learn;
 			sourceTree = "<group>";
@@ -131,11 +203,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1F44015280D055C00246029 /* T12.cpp in Sources */,
 				E1F4400A2808203300246029 /* T7.c in Sources */,
 				E1F440022808003D00246029 /* T4.c in Sources */,
+				E1F4401E280E88F800246029 /* T15.cpp in Sources */,
+				E1F4402F28124FE800246029 /* T19Class.cpp in Sources */,
+				E1F44028280FD8FB00246029 /* T17.cpp in Sources */,
+				E1F4403128127DE000246029 /* T20.cpp in Sources */,
+				E1F44018280D4B9600246029 /* Student.cpp in Sources */,
+				E1F44026280FD6AE00246029 /* T17Student.cpp in Sources */,
+				E1F4403C2812A55300246029 /* T23.cpp in Sources */,
 				E1F440042808063700246029 /* T5.c in Sources */,
+				E1F440112809482600246029 /* T10.c in Sources */,
+				E1F440132809508600246029 /* T11.c in Sources */,
 				E1F440062808082C00246029 /* T6.c in Sources */,
+				E1F4403A28128B5300246029 /* T22.cpp in Sources */,
+				E1F44020280E99ED00246029 /* T16.cpp in Sources */,
+				E1F4402C28124F9F00246029 /* T19.cpp in Sources */,
+				E1F4403E2812A9B000246029 /* T24.cpp in Sources */,
+				E1F4400E2808412900246029 /* T9.c in Sources */,
+				E1F4401C280E84CB00246029 /* T14.cpp in Sources */,
+				E1F4403428127DEE00246029 /* T20Class.cpp in Sources */,
+				E1F44037281285BA00246029 /* T21Class.cpp in Sources */,
+				E1F4401A280D4ED400246029 /* T13.cpp in Sources */,
 				E1F4400C28082CA600246029 /* T8.c in Sources */,
+				E1F4402A28124B2700246029 /* T18.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
