@@ -45,7 +45,7 @@ public:
  */
 
 
-int main() {
+int main24() {
     Student stu("李元霸",11);
     stu.name = "";
     

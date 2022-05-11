@@ -32,6 +32,8 @@
 		E1F4403A28128B5300246029 /* T22.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4403828128B5300246029 /* T22.cpp */; };
 		E1F4403C2812A55300246029 /* T23.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4403B2812A55300246029 /* T23.cpp */; };
 		E1F4403E2812A9B000246029 /* T24.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1F4403D2812A9B000246029 /* T24.cpp */; };
+		E1FB80DD282BA12300F3E571 /* T25.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1FB80DC282BA12300F3E571 /* T25.cpp */; };
+		E1FB80DF282BA45C00F3E571 /* T26.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E1FB80DE282BA45C00F3E571 /* T26.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -79,6 +81,8 @@
 		E1F4403928128B5300246029 /* T22.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = T22.hpp; sourceTree = "<group>"; };
 		E1F4403B2812A55300246029 /* T23.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T23.cpp; sourceTree = "<group>"; };
 		E1F4403D2812A9B000246029 /* T24.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T24.cpp; sourceTree = "<group>"; };
+		E1FB80DC282BA12300F3E571 /* T25.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T25.cpp; sourceTree = "<group>"; };
+		E1FB80DE282BA45C00F3E571 /* T26.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = T26.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +146,8 @@
 				E1F4403928128B5300246029 /* T22.hpp */,
 				E1F4403B2812A55300246029 /* T23.cpp */,
 				E1F4403D2812A9B000246029 /* T24.cpp */,
+				E1FB80DC282BA12300F3E571 /* T25.cpp */,
+				E1FB80DE282BA45C00F3E571 /* T26.cpp */,
 			);
 			path = c_learn;
 			sourceTree = "<group>";
@@ -203,6 +209,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1FB80DF282BA45C00F3E571 /* T26.cpp in Sources */,
 				E1F44015280D055C00246029 /* T12.cpp in Sources */,
 				E1F4400A2808203300246029 /* T7.c in Sources */,
 				E1F440022808003D00246029 /* T4.c in Sources */,
@@ -228,6 +235,7 @@
 				E1F4401A280D4ED400246029 /* T13.cpp in Sources */,
 				E1F4400C28082CA600246029 /* T8.c in Sources */,
 				E1F4402A28124B2700246029 /* T18.cpp in Sources */,
+				E1FB80DD282BA12300F3E571 /* T25.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

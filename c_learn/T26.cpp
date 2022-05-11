@@ -6,3 +6,15 @@
 //
 
 #include <stdio.h>
+#include <iostream>
+
+/**
+ 手写JNIEnv
+ */
+
+int main() {
+    
+    
+    
+    return 0;
+}
